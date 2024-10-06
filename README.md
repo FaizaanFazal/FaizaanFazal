@@ -33,7 +33,7 @@ Let me write quickly about myself without bragging:
 
 ### :zap: GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizaanFazal&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10)](https://github.com/FaizaanFazal)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizaanFazal&hide_rank=false&show_icons=true&include_all_commits=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10)](https://github.com/FaizaanFazal)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaanFazal&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Love%20To%20Play%20With&border_color=7D5EA9&border_radius=10)](https://github.com/FaizaanFazal)
 
@@ -54,16 +54,6 @@ Let me write quickly about myself without bragging:
 
 ### :zap: Recent GitHub Activity
 
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 6th, 2024, 1:07:16 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 # Point To Ponder 
 <div align='center'><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></div>
