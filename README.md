@@ -38,7 +38,7 @@ Let me write quickly about myself without bragging:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaanFazal&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Love%20To%20Play%20With&border_color=7D5EA9&border_radius=10)](https://github.com/FaizaanFazal)
 
 ### 🚀 GitHub Streak Stats
-[![GitHub Streak](https://githubstreaksaadat.herokuapp.com?user=FaizaanFazal&date_format=M%20j%5B%2C%20Y%5D&dates=FF8A20&background=000000&sideNums=000000&currStreakLabel=FF8A20&currStreakNum=FDFF00&sideLabels=000000&border=040101&stroke=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FaizaanFazal)](https://git.io/streak-stats)
 
 <details>
 <summary>More Stats</summary>
