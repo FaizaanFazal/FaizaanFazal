@@ -1,19 +1,16 @@
-const saadatAli = {
+const faizaanKhan = {
   Intro: {
-    lookingFor: [ 'Front-end Developer', 'Full-stack web developer', 'Flutter Developer'],
+    lookingFor: [ 'Front-end Developer', 'Full-stack web developer', 'React.js developer',  'Nextjs developer'],
     experience: [
-      'Two Years Freelance Android Developer Experience ',
-      'One Year Remote Programming Experience as Micronaut'
+      'Two Years Full-stack web development Experience'
     ]
   },
   techStacks: {
-    web_development: ['JavaScript', 'HTML&CSS', 'React', 'Redux', 'Ruby', 'Rails', 'Node.js'],
-    app_development: ['Flutter', 'Dart', 'JAVA'],
-    game_development: ['Unity Engine', 'C#'],
+    web_development: ['JavaScript', 'HTML&CSS', 'React', 'Redux', 'Node.js', 'Python'],
+    app_development: ['React Native'],
     machine_learning: ['Python']
   },
   askMeAbout: {
-    sports: ['Cricket', 'Hockey'],
-    crypto_currency: ['Etherium', 'Cardano', 'VeChain'],
+    sports: ['BasketBall', 'Badminton'],
   },
 };
