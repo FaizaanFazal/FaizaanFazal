@@ -1,7 +1,7 @@
 # Hey, I'm Faizaan👋
 ![Profile Views](https://komarev.com/ghpvc/?username=FaizaanFazal&color=brightgreen&style=plastic)
 <div style="width: 100%;">
- <img src='images/banner.webp' alt='banner' style="width: 100%;"/>
+ <img src='images/coverphoto.png' alt='banner' style="width: 100%;"/>
 </div>
 
 ## Who's me :thinking:?
