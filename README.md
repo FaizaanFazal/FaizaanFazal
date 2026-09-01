@@ -83,6 +83,17 @@ Alongside research, I have built production-oriented web software with React, Ne
 | [Editorjs-tools-in-nextjs](https://github.com/FaizaanFazal/Editorjs-tools-in-nextjs) | An Editor.js authoring and rendering toolkit with custom block renderers and server-side metadata retrieval. | Next.js, TypeScript, Editor.js, React |
 | [Blog-Website-Using-Test-Driven-Development](https://github.com/FaizaanFazal/Blog-Website-Using-Test-Driven-Development) | A React/Redux blog interface developed with extensive component, interaction, and snapshot tests. | React, Redux Toolkit, Jest, Testing Library, SCSS |
 
+## GitHub Snapshot
+
+<p align="center">
+  <a href="https://github.com/FaizaanFazal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=FaizaanFazal&amp;show_icons=true&amp;include_all_commits=true&amp;hide=contribs&amp;hide_border=true&amp;theme=github_dark">
+      <img src="https://github-stats-extended.vercel.app/api?username=FaizaanFazal&amp;show_icons=true&amp;include_all_commits=true&amp;hide=contribs&amp;hide_border=true" alt="Faizaan Fazal Khan's GitHub statistics" width="495">
+    </picture>
+  </a>
+</p>
+
 ## Contact
 
 I welcome conversations about biomedical AI, medical imaging, trustworthy machine learning, research engineering, and software systems. The best ways to reach me are through [email](mailto:dkfaizaan12@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faizaan-fazal-a02246242/).
